@@ -5,10 +5,10 @@
 
 ## 👩‍💻 About Me
 
-- 💻 Computer Engineer based in Kathmandu, Nepal  
-- 🌱 Full Stack Developer working with **React, Node.js, and Next.js**  
-- ⚡ Interested in building scalable web applications and modern UI systems  
-- 🧠 Experience working in **Agile teams and real production systems**  
+💻 Computer Engineer based in Kathmandu, Nepal  
+🌱 Full Stack Developer working with **React, Node.js, and Next.js**  
+⚡ Interested in building scalable web applications and modern UI systems  
+🧠 Experience working in **Agile teams and real production systems**  
 
 
 
