@@ -10,6 +10,8 @@
 ⚡ Interested in building scalable web applications and modern UI systems  
 🧠 Experience working in **Agile teams and real production systems**  
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://nextjs-portfolio-sigma-puce-77.vercel.app/)
+
 
 
 ## 🛠 Tech Stack
