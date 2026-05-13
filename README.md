@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sweksha Dhungana</h1>
 <h3 align="center">Computer Engineer | Full Stack Developer (MERN + Next.js)</h3>
 
-![](https://komarev.com/ghpvc/?username=SwekshaDhungana&label=Profile+Views&color=0e75b6&style=flat)
-
-
 ---
 
 ## 👩‍💻 About Me
